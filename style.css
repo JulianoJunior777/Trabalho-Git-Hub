@@ -12,9 +12,14 @@ footer{
     background-color: rgb(0, 98, 255);
     color: white;
     font-size: 20px;
-    height: 68px;
+    height: 135px;
     width: 100%;
     text-align: center;
+}
+
+.logounipinhal{
+    display: block;
+    float: left;
 }
 
 .col-12{
